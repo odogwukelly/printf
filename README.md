@@ -1,1 +1,1 @@
-eam project "printf"
+team project "printf"
