@@ -1,1 +1,1 @@
-team project "printf"
+tea project "printf"
